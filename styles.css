@@ -1,11 +1,11 @@
 #btn{
     background-color: black;
     color: white;
-    width: 180px;
-    height: 60px;
+    /* width: 180px;
+    height: 60px; */
     border-radius: 5px;
     border: none;
-    font-size: 25px;
+    /* font-size: 25px; */
 }
 #btn:hover{
     background-color: yellow;
